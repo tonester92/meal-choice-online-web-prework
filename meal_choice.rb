@@ -6,8 +6,6 @@ def meal_choice(meat = "meat")
   puts "what kind of #{meat} would you like?"
 end
 
-meal_choice("steak")
-
 meal_choice
 
   
